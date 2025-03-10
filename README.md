@@ -5,7 +5,6 @@
 <h2>🔭 I’m currently working on:</h2>
 <h2> 🌱 I’m currently learning:</h2>
 <h2> 📫 How to reach me:</h2>
-<img align="left" alt="LuulCadaawe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 
 
