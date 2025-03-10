@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Luul! <br/><a href="https://github.com/Lcadaawe">Aspiring Business & Data Analytics Professional</a> <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/luul-cadaawe/)"></a></h1>
+<h2>👨‍💻 Data Analytics Projects:</h2>
+
+
+<h2>🔭 I’m currently working on:</h2>
+<h2> 🌱 I’m currently learning:</h2>
+<h2> 📫 How to reach me:</h2>
+<img align="left" alt="LuulCadaawe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+
+
 
 <!--
-**LCadaawe/Lcadaawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
