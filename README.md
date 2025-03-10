@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luul! <br/><a href="https://github.com/Lcadaawe">Aspiring Business & Data Analytics Professional</a> <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/luul-cadaawe/)"></a></h1>
+<h1>Hi, I'm Luul! <br/><a href="https://github.com/Lcadaawe">
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 
